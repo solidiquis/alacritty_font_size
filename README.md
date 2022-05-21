@@ -1,2 +1,4 @@
-# alacritty_font_size
+# Alacritty Font Size
 A cute terminal UI to quickly adjust font sizes for Alacritty.
+
+https://user-images.githubusercontent.com/45523555/169672130-45f697f3-242d-4412-8e1e-3e5d09c1a9b9.mov
