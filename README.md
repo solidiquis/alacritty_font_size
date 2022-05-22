@@ -17,3 +17,5 @@ I would most definitely recommend creating an alias for usage in the command lin
 
 - `<Up> | k` to increment font-size.
 - `<Down> | j` to decrement font-size.
+
+Exit with Ctrl-c.
