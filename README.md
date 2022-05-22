@@ -12,3 +12,8 @@ $ brew install alacritty_font_size
 ```
 
 I would most definitely recommend creating an alias for usage in the command line as the name is quite long.
+
+## Usage
+
+- [Up | k] to increment font-size.
+- [Down | j] to decrement font-size.
